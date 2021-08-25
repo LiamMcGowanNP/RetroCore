@@ -23,6 +23,8 @@ namespace RetroCore
         public MainWindow()
         {
             InitializeComponent();
+
+            Global.blnmainWindow = true;
         }
     }
 }

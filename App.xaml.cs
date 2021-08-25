@@ -58,6 +58,7 @@ namespace RetroCore
                 splashWindow.SetProgress(strEvent.Substring(0, i));
                 Thread.Sleep(100);
             }
+
             // Check version numbers
             Global.CheckVersions();
             Thread.Sleep(500);

@@ -9,7 +9,7 @@
     <Grid>
         <Label x:Name="lblApplicationName" Content="RetroCore" Height="59" Margin="164,32,73.496,0" VerticalAlignment="Top" Width="auto" FontSize="36" HorizontalContentAlignment="Center" Foreground="White"/>
         <Label x:Name="lblVersion" Content="Version 0.0.0.0" Height="26" Margin="236,91,147.496,161" Width="auto" Foreground="White" HorizontalContentAlignment="Center"/>
-        <Image x:Name="imgLogo" HorizontalAlignment="Left" Height="67" Margin="60,45,0,0" VerticalAlignment="Top" Width="65" Source="Resources/Images/PetalLogo.png" SnapsToDevicePixels="True" IsEnabled="False"/>
+        <Image x:Name="imgLogo" HorizontalAlignment="Left" Height="106" Margin="57,14,0,0" VerticalAlignment="Top" Width="65" Source="Untitled.png" SnapsToDevicePixels="True" IsEnabled="False" Stretch="UniformToFill"/>
         <Label x:Name="lblHelp" Content="lblHelp" Height="26" Margin="10,125,140,127" Width="auto" Foreground="White"/>
         <Label x:Name="lblBDAppNumber" Content="lblBDAppNumber" Height="26" Margin="10,151,140,101" Foreground="White"/>
         <Label x:Name="lblBDAppName" Content="lblBDAppName" Height="26" Margin="10,177,333,75" Width="auto" Foreground="White"/>
